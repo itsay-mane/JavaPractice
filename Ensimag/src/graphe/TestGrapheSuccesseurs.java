@@ -1,4 +1,4 @@
-package src;
+package graphe;
 
 public class TestGrapheSuccesseurs {
     public static void main(String[] args) {
